@@ -1,6 +1,6 @@
 # Personnal notes
 
-* [Rust](https://github.com/azeq/notes/blob/master/rust.md)
+* [Rust](https://github.com/azeq/notes/blob/master/rust.md) tags{rust}
 
 # Misc.
 - Task queue:
