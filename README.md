@@ -12,3 +12,6 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 
 # Optimization
 * https://www.infoq.com/articles/making-code-faster-taming-branches/ tags{cpu,branch}
+
+# Algorithm
+* https://sortingsearching.com tags{sort,search}
