@@ -30,6 +30,7 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 
 ## Rust
 * https://rust-unofficial.github.io/too-many-lists/ tags{rust,exercise,training}
+* The Rustonomicon, advanced rust concepts: https://doc.rust-lang.org/nomicon/index.html tags{rust}
 * [Rust](https://github.com/azeq/notes/blob/master/rust.md) tags{rust}
 
 ## Software development
