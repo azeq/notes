@@ -3,9 +3,6 @@
 ## Algorithm
 * https://sortingsearching.com tags{sort,search}
 
-## Linux
-* https://lwn.net/Articles/lsfmm2019/ tags{filesystem,memory}
-
 ## Database
 * https://research.google/pubs/pub48030/ tags{google,key-value,distributed}
 
@@ -14,6 +11,9 @@
 
 ## Interview 
 * https://yangshun.github.io/tech-interview-handbook/ tags{interview,algorithm,exercise}
+
+## Linux
+* https://lwn.net/Articles/lsfmm2019/ tags{filesystem,memory}
 
 ## Misc.
 * Task queue:
@@ -37,3 +37,4 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 * https://www.csc.gov.sg/articles/how-to-build-good-software tags{best practice,productivity,knowledge,support}
 * https://roadmap.sh/guides/levels-of-seniority tags{seniority}
 * https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/ tags{rules}
+* https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html tags{bug,fix}
