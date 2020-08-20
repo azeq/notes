@@ -34,7 +34,7 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 * [Rust](https://github.com/azeq/notes/blob/master/rust.md) tags{rust}
 
 ## Security
-* https://youtu.be/996OiexHze0 tags{ouath2,authentication code flow}
+* https://youtu.be/996OiexHze0 tags{ouath2,authentication code flow,okta}
 
 ## Software development
 * https://www.csc.gov.sg/articles/how-to-build-good-software tags{best practice,productivity,knowledge,support}
