@@ -33,6 +33,9 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 * The Rustonomicon, advanced rust concepts: https://doc.rust-lang.org/nomicon/index.html tags{rust}
 * [Rust](https://github.com/azeq/notes/blob/master/rust.md) tags{rust}
 
+## Security
+* https://youtu.be/996OiexHze0 tags{ouath2,authentication code flow}
+
 ## Software development
 * https://www.csc.gov.sg/articles/how-to-build-good-software tags{best practice,productivity,knowledge,support}
 * https://roadmap.sh/guides/levels-of-seniority tags{seniority}
