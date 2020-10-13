@@ -2,6 +2,7 @@
 
 ## Algorithm
 * https://sortingsearching.com tags{sort,search}
+* https://github.com/labuladong/fucking-algorithm/tree/english
 
 ## Database
 * https://research.google/pubs/pub48030/ tags{google,key-value,distributed}
@@ -35,6 +36,7 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 
 ## Security
 * https://youtu.be/996OiexHze0 tags{ouath2,authentication code flow,okta}
+* https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/ tags{ssh}
 
 ## Software development
 * https://www.csc.gov.sg/articles/how-to-build-good-software tags{best practice,productivity,knowledge,support}
