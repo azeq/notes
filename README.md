@@ -44,3 +44,8 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 * https://roadmap.sh/guides/levels-of-seniority tags{seniority}
 * https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/ tags{rules}
 * https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html tags{bug,fix}
+
+## Testing
+```
+This really is a concept that you need to keep in mind when you write your code "testability". And i find that when you get this you also get a Buch of other properties for "free". Orthogonality and reusability for example. And really it's a force multiplier and kicks productivity into high gear when you know that your lower level components work as expected and you don't have to go ok a wilf goose hunt when something would be constantly broken. To summarize I find that writing tests early on reduce product velocity but the compound effect of good quality and regression prevention give you higher velocity later on.
+```
