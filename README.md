@@ -10,6 +10,9 @@
 ## Data
 * https://ananasanalytics.com/ tags{analytics}
 
+## Framework
+* https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/ tags{hibernate,jpa,java}
+
 ## Interview 
 * https://yangshun.github.io/tech-interview-handbook/ tags{interview,algorithm,exercise}
 
