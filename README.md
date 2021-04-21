@@ -41,6 +41,8 @@ RPOPLPUSH (or BRPOPLPUSH for the blocking variant) offers a way to avoid this pr
 ## Security
 * https://youtu.be/996OiexHze0 tags{ouath2,authentication code flow,okta}
 * https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/ tags{ssh}
+* https://www.root-me.org/?lang=en tags{challenge,ctf}
+* https://twitter.com/N26Careers/status/1085098091273994240?s=20 tags{n26,ctf,career}
 
 ## Software development
 * https://www.csc.gov.sg/articles/how-to-build-good-software tags{best practice,productivity,knowledge,support}
