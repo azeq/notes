@@ -1,0 +1,1 @@
+- Create a github action that parses Junit results and publish a report in a github (html) page. 
